@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+    padding: 32px;
+    margin: auto;
+} 
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #886fa6;
+}
+li a {
+  display: block;
+  color: rgb(240, 122, 5);
+  padding: 8px 16px;
+  text-decoration: none;
+}
+/* Change the link and background color on hover */
+li a:hover {
+  background-color: #dabce4;
+  color: rgb(249, 210, 121);
+}
